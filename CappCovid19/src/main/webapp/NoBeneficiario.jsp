@@ -33,6 +33,6 @@ if (usuSession.equals(null) || usuSession.equals("null") || index.equals("Benefi
             </div>
 <h1 align="center">Lo sentimos no eres beneficiario de este bono <br> puedes consultar de nuevo  <br>
  ingresando el Dui de otra persona <br> que reside en tu familia</h1>
-<i class="far fa-sad-cry fa-10x"></i>
+<i align="center" class="far fa-sad-cry fa-10x"></i>
 </body>
 </html>

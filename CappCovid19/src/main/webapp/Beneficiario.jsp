@@ -35,6 +35,6 @@ if (usuSession.equals(null) || usuSession.equals("null") || index.equals("NoBene
 
 <h1 align="center"> Eres beneficiario del apoyo que ofrece el <br>
  Gobierno de El Salvador <br> que corresponde a $300</h1>
- <i class="far fa-smile-beam fa-10x"></i>
+ <i align="center" class="far fa-smile-beam fa-10x"></i>
 </body>
 </html>
